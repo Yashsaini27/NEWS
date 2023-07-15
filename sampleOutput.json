@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "G7 to announce long-term Ukraine security package at Nato summit - BBC",
+            "description": "It comes after Nato refused to provide Kyiv with a timeline for joining the alliance.",
+            "url": "https://www.bbc.com/news/world-europe-66172421",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17BF1/production/_130356279_a11e2ff84a141568a79cae457fcaa1b42f58fcb2.jpg",
+            "publishedAt": "2023-07-12T04:48:09Z",
+            "content": "G7 members are expected to ratify a wide-ranging security pact with Ukraine at the Nato summit on Wednesday.\r\nBut they stopped short of providing a timeframe for Kyiv to join the security alliance, p… [+4194 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Sports Staff",
+            "title": "2023 MLB All-Star Game: National League ends 9-game losing streak behind Elías Díaz home run - Yahoo Sports",
+            "description": "The American League was leading 2-1 heading into the eighth inning Tuesday and had a chance in the ninth.",
+            "url": "https://sports.yahoo.com/2023-mlb-all-star-game-national-league-ends-9-game-losing-streak-behind-elias-diaz-home-run-040624572.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/G57tHrz_9YmPT3etChV.wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/99603640-2061-11ee-9f6b-68ab6a9a8be3",
+            "publishedAt": "2023-07-12T04:32:00Z",
+            "content": "SEATTLE The National League players ended a nine-game losing streak against their American League counterparts on Tuesday in the MLB All-Star Game. After trailing for much of the contest, they went a… [+7515 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Megan Liscomb",
+            "title": "How I Detected My Breast Cancer In My 30s - BuzzFeed",
+            "description": "We all know that a lump in the breast is the classic red flag sign, but that's not what prompted me to get checked out.",
+            "url": "https://www.buzzfeed.com/meganeliscomb/signs-of-breast-cancer-in-my-30s",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-07/12/0/enhanced/bba3e842abba/original-417-1689121224-9.jpg?crop=1243:651;0,79%26downsize=1250:*",
+            "publishedAt": "2023-07-12T04:06:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Doc Louallen",
+            "title": "Mega Millions jackpot hits $500M. See winning numbers for July 11 drawing. - USA TODAY",
+            "description": "The Mega Millions jackpot now sits at a staggering $500 million. There hasn’t been a winner since April 18. Here are the winning numbers for July 11.",
+            "url": "https://www.usatoday.com/story/money/2023/07/11/mega-millions-winning-numbers-july-11/70403830007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2022/11/02/USAT/a8d29f2e-0972-4e82-b435-2a32c9a12020-AP_Lottery_Jackpot.JPG?crop=3348,1883,x404,y586&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-12T03:13:04Z",
+            "content": "Feelin' lucky? Tonight's Mega Millions jackpot now sits at a staggering $500 million. Anticipation is growing as there hasnt been a winner since April 18.\r\nThe numbers were drawn just after 11 p.m. E… [+2118 chars]"
+        }
+    ]
+}
+      
